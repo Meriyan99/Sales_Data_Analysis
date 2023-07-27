@@ -23,3 +23,7 @@
 #### Below Report contains the Drill Through feature. By employing the drill-through functionality, users can navigate through various levels of granularity within the dataset, gaining deeper insights and understanding into the relationships between sales data and associated attributes, such as time frames, products, regions, or other relevant dimensions.
 
 ![sales_3](https://github.com/Meriyan99/Sales_Data_Analysis/assets/128514985/5631a966-734d-4212-bc9f-c8998127f081)
+
+## Tools used in this Project
+1. Power BI   -  For Report Generation
+2. Power Query Editor   -  To Transform the dataset
